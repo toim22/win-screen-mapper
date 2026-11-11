@@ -1,0 +1,15 @@
+{
+  "name": "win-screen-mapper",
+  "owner": {
+    "name": "toim22",
+    "url": "https://github.com/toim22"
+  },
+  "plugins": [
+    {
+      "name": "win-screen-mapper",
+      "source": "./",
+      "description": "Maps an entire Windows desktop application into an organized screenshot atlas with a coverage report and an offline HTML index.",
+      "version": "1.0.0"
+    }
+  ]
+}

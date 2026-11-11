@@ -1,0 +1,27 @@
+{
+  "_leia": "Copie como scripts/app.json e preencha. Campos com _ sao comentarios. Tudo que e do app fica aqui ou no adaptador; os scripts do kit nao mudam.",
+
+  "app": "Nome do App 2026",
+  "exe": "App.exe",
+  "caminho_exe": "C:\\Program Files\\Fabricante\\App\\App.exe",
+  "titulo": "App",
+  "classe_principal": "",
+  "idioma": "en",
+  "saida": "C:\\Mapeamentos\\MeuApp\\MAPEAMENTO",
+
+  "_rota": "como achar e abrir menus: uia (UI Automation enxerga os menus) | win32 (menus nativos HMENU) | adaptador (COM/script do app) | visao (coordenadas marcadas a mao)",
+  "rota_menus": "uia",
+  "_abrir_telas": "como abrir cada comando que abre janela: uia (expande o caminho e invoca) | win32 (WM_COMMAND pelo id) | adaptador (adaptador.abrir_comando)",
+  "abrir_telas": "uia",
+  "adaptador": "",
+
+  "classes_menu": [],
+  "menus_fora": ["Purchase"],
+  "_menus_raiz_manual": "so na rota visao: [{\"nome\": \"File\", \"x\": 24, \"y\": 40}] com x,y relativos a janela principal (marque numa folha com regua)",
+  "menus_raiz_manual": [],
+  "linhas_menu": {"modo": "tinta"},
+
+  "contextos": ["doc-vazio"],
+  "espera_janela": 2.5,
+  "max_prints_por_tela": 80
+}

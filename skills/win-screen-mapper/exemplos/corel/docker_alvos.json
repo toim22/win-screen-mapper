@@ -1,0 +1,2282 @@
+[
+ {
+  "docker": "Properties",
+  "nome": "Resumo ▸ lista Wrap paragraph text",
+  "tipo": "lista",
+  "x": 92,
+  "y": 326,
+  "antes": [
+   {
+    "x": 205,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "botao de exibicao 1",
+  "tipo": "expandir",
+  "x": 243,
+  "y": 44
+ },
+ {
+  "docker": "Properties",
+  "nome": "botao de exibicao 2",
+  "tipo": "expandir",
+  "x": 275,
+  "y": 44
+ },
+ {
+  "docker": "Properties",
+  "nome": "Contorno ▸ lista cor",
+  "tipo": "lista",
+  "x": 81,
+  "y": 103,
+  "antes": [
+   {
+    "x": 13,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Contorno ▸ lista largura",
+  "tipo": "lista",
+  "x": 82,
+  "y": 135,
+  "antes": [
+   {
+    "x": 13,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Contorno ▸ lista unidades",
+  "tipo": "lista",
+  "x": 187,
+  "y": 135,
+  "antes": [
+   {
+    "x": 13,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Contorno ▸ lista estilo de linha",
+  "tipo": "lista",
+  "x": 190,
+  "y": 167,
+  "antes": [
+   {
+    "x": 13,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Contorno ▸ editar estilo de linha (...)",
+  "tipo": "menu",
+  "x": 220,
+  "y": 167,
+  "antes": [
+   {
+    "x": 13,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Contorno ▸ recolher secao (^)",
+  "tipo": "expandir",
+  "x": 137,
+  "y": 242,
+  "antes": [
+   {
+    "x": 13,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Contorno ▸ lista ponta de seta inicial",
+  "tipo": "lista",
+  "x": 76,
+  "y": 457,
+  "antes": [
+   {
+    "x": 13,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Contorno ▸ lista ponta de seta final",
+  "tipo": "lista",
+  "x": 76,
+  "y": 489,
+  "antes": [
+   {
+    "x": 13,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Contorno ▸ opcoes da ponta inicial (...)",
+  "tipo": "menu",
+  "x": 105,
+  "y": 457,
+  "antes": [
+   {
+    "x": 13,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Contorno ▸ opcoes da ponta final (...)",
+  "tipo": "menu",
+  "x": 105,
+  "y": 489,
+  "antes": [
+   {
+    "x": 13,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Preenchimento ▸ tipo sem preenchimento",
+  "tipo": "aba",
+  "x": 14,
+  "y": 102,
+  "antes": [
+   {
+    "x": 46,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Preenchimento ▸ tipo gradiente",
+  "tipo": "aba",
+  "x": 78,
+  "y": 102,
+  "antes": [
+   {
+    "x": 46,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Preenchimento ▸ tipo padrao vetorial",
+  "tipo": "aba",
+  "x": 110,
+  "y": 102,
+  "antes": [
+   {
+    "x": 46,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Preenchimento ▸ tipo padrao bitmap",
+  "tipo": "aba",
+  "x": 142,
+  "y": 102,
+  "antes": [
+   {
+    "x": 46,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Preenchimento ▸ mais tipos (seta)",
+  "tipo": "menu",
+  "x": 174,
+  "y": 102,
+  "antes": [
+   {
+    "x": 46,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Preenchimento ▸ visualizador 2",
+  "tipo": "aba",
+  "x": 46,
+  "y": 143,
+  "antes": [
+   {
+    "x": 46,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Preenchimento ▸ visualizador 3",
+  "tipo": "aba",
+  "x": 78,
+  "y": 143,
+  "antes": [
+   {
+    "x": 46,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Preenchimento ▸ lista modelo de cor",
+  "tipo": "lista",
+  "x": 215,
+  "y": 175,
+  "antes": [
+   {
+    "x": 46,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Preenchimento ▸ menu engrenagem",
+  "tipo": "menu",
+  "x": 274,
+  "y": 175,
+  "antes": [
+   {
+    "x": 46,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Preenchimento ▸ menu (...)",
+  "tipo": "menu",
+  "x": 276,
+  "y": 414,
+  "antes": [
+   {
+    "x": 46,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Preenchimento ▸ recolher secao (^)",
+  "tipo": "expandir",
+  "x": 146,
+  "y": 453,
+  "antes": [
+   {
+    "x": 46,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Transparencia ▸ lista modo de mesclagem",
+  "tipo": "lista",
+  "x": 240,
+  "y": 103,
+  "antes": [
+   {
+    "x": 77,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Transparencia ▸ tipo uniforme",
+  "tipo": "aba",
+  "x": 46,
+  "y": 143,
+  "antes": [
+   {
+    "x": 77,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Transparencia ▸ tipo gradiente",
+  "tipo": "aba",
+  "x": 78,
+  "y": 143,
+  "antes": [
+   {
+    "x": 77,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Transparencia ▸ tipo padrao vetorial",
+  "tipo": "aba",
+  "x": 110,
+  "y": 143,
+  "antes": [
+   {
+    "x": 77,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Transparencia ▸ tipo padrao bitmap",
+  "tipo": "aba",
+  "x": 142,
+  "y": 143,
+  "antes": [
+   {
+    "x": 77,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Transparencia ▸ mais tipos (seta)",
+  "tipo": "menu",
+  "x": 174,
+  "y": 143,
+  "antes": [
+   {
+    "x": 77,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Efeitos ▸ lista Presets",
+  "tipo": "lista",
+  "x": 240,
+  "y": 103,
+  "antes": [
+   {
+    "x": 109,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Efeitos ▸ menu adicionar (+)",
+  "tipo": "menu",
+  "x": 16,
+  "y": 306,
+  "antes": [
+   {
+    "x": 109,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Pincel ▸ lista Select a brush",
+  "tipo": "lista",
+  "x": 140,
+  "y": 125,
+  "antes": [
+   {
+    "x": 173,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Properties",
+  "nome": "Pincel ▸ lista cor do contorno",
+  "tipo": "lista",
+  "x": 115,
+  "y": 201,
+  "antes": [
+   {
+    "x": 173,
+    "y": 44
+   }
+  ]
+ },
+ {
+  "docker": "Objects",
+  "nome": "visualizacao 2 (camadas)",
+  "tipo": "aba",
+  "x": 45,
+  "y": 74,
+  "voltar": {
+   "x": 15,
+   "y": 74
+  }
+ },
+ {
+  "docker": "Objects",
+  "nome": "menu engrenagem",
+  "tipo": "menu",
+  "x": 274,
+  "y": 74,
+  "reiniciar_depois": true
+ },
+ {
+  "docker": "Pages",
+  "nome": "botao 1 (exibicao)",
+  "tipo": "aba",
+  "x": 14,
+  "y": 74
+ },
+ {
+  "docker": "Pages",
+  "nome": "botao 2 (exibicao)",
+  "tipo": "aba",
+  "x": 44,
+  "y": 74,
+  "voltar": {
+   "x": 14,
+   "y": 74
+  }
+ },
+ {
+  "docker": "Pages",
+  "nome": "menu de visualizacao",
+  "tipo": "menu",
+  "x": 243,
+  "y": 74
+ },
+ {
+  "docker": "Pages",
+  "nome": "menu engrenagem",
+  "tipo": "menu",
+  "x": 275,
+  "y": 74
+ },
+ {
+  "docker": "Comments",
+  "nome": "menu engrenagem",
+  "tipo": "menu",
+  "x": 275,
+  "y": 44
+ },
+ {
+  "docker": "Object Data",
+  "nome": "botao 1",
+  "tipo": "menu",
+  "x": 14,
+  "y": 44
+ },
+ {
+  "docker": "Object Data",
+  "nome": "botao 2",
+  "tipo": "menu",
+  "x": 46,
+  "y": 44
+ },
+ {
+  "docker": "Object Styles",
+  "nome": "item Styles",
+  "tipo": "aba",
+  "x": 56,
+  "y": 44
+ },
+ {
+  "docker": "Object Styles",
+  "nome": "item Style Sets",
+  "tipo": "aba",
+  "x": 56,
+  "y": 70
+ },
+ {
+  "docker": "Object Styles",
+  "nome": "expandir Default Object Properties",
+  "tipo": "expandir",
+  "x": 14,
+  "y": 93
+ },
+ {
+  "docker": "Object Styles",
+  "nome": "menu novo estilo",
+  "tipo": "menu",
+  "x": 16,
+  "y": 127
+ },
+ {
+  "docker": "Symbols",
+  "nome": "menu engrenagem",
+  "tipo": "menu",
+  "x": 275,
+  "y": 44
+ },
+ {
+  "docker": "Symbols",
+  "nome": "item Linked Symbols",
+  "tipo": "aba",
+  "x": 72,
+  "y": 167,
+  "voltar": {
+   "x": 72,
+   "y": 143
+  }
+ },
+ {
+  "docker": "Symbols",
+  "nome": "expandir Local Symbols",
+  "tipo": "expandir",
+  "x": 15,
+  "y": 191
+ },
+ {
+  "docker": "Symbols",
+  "nome": "item Network Symbols",
+  "tipo": "aba",
+  "x": 90,
+  "y": 215,
+  "voltar": {
+   "x": 72,
+   "y": 143
+  }
+ },
+ {
+  "docker": "Find and Replace",
+  "nome": "lista Find Objects",
+  "tipo": "lista",
+  "x": 144,
+  "y": 45
+ },
+ {
+  "docker": "Find and Replace",
+  "nome": "lista Custom (consultas salvas)",
+  "tipo": "lista",
+  "x": 114,
+  "y": 78
+ },
+ {
+  "docker": "Find and Replace",
+  "nome": "opcao Names or Styles",
+  "tipo": "aba",
+  "x": 25,
+  "y": 140,
+  "voltar": {
+   "x": 25,
+   "y": 117
+  }
+ },
+ {
+  "docker": "Find and Replace",
+  "nome": "consulta contorno do objeto",
+  "tipo": "menu",
+  "x": 18,
+  "y": 247
+ },
+ {
+  "docker": "Find and Replace",
+  "nome": "consulta preenchimento",
+  "tipo": "menu",
+  "x": 18,
+  "y": 281
+ },
+ {
+  "docker": "Find and Replace",
+  "nome": "consulta contorno",
+  "tipo": "menu",
+  "x": 18,
+  "y": 315
+ },
+ {
+  "docker": "Find and Replace",
+  "nome": "consulta efeitos",
+  "tipo": "menu",
+  "x": 18,
+  "y": 349
+ },
+ {
+  "docker": "Find and Replace",
+  "nome": "expandir Search range",
+  "tipo": "expandir",
+  "x": 12,
+  "y": 503
+ },
+ {
+  "docker": "Transform",
+  "nome": "aba Rotate",
+  "tipo": "aba",
+  "x": 45,
+  "y": 44,
+  "voltar": {
+   "x": 12,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Transform",
+  "nome": "aba Scale and Mirror",
+  "tipo": "aba",
+  "x": 78,
+  "y": 44,
+  "voltar": {
+   "x": 12,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Transform",
+  "nome": "aba Size",
+  "tipo": "aba",
+  "x": 110,
+  "y": 44,
+  "voltar": {
+   "x": 12,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Transform",
+  "nome": "aba Skew",
+  "tipo": "aba",
+  "x": 143,
+  "y": 44,
+  "voltar": {
+   "x": 12,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Coordinates",
+  "nome": "aba Ellipse",
+  "tipo": "aba",
+  "x": 45,
+  "y": 44,
+  "voltar": {
+   "x": 12,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Coordinates",
+  "nome": "aba Polygon",
+  "tipo": "aba",
+  "x": 78,
+  "y": 44,
+  "voltar": {
+   "x": 12,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Coordinates",
+  "nome": "aba Star",
+  "tipo": "aba",
+  "x": 110,
+  "y": 44,
+  "voltar": {
+   "x": 12,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Coordinates",
+  "nome": "aba Spiral",
+  "tipo": "aba",
+  "x": 143,
+  "y": 44,
+  "voltar": {
+   "x": 12,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Coordinates",
+  "nome": "aba Line",
+  "tipo": "aba",
+  "x": 175,
+  "y": 44,
+  "voltar": {
+   "x": 12,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Coordinates",
+  "nome": "aba Curve",
+  "tipo": "aba",
+  "x": 208,
+  "y": 44,
+  "voltar": {
+   "x": 12,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Live Guides",
+  "nome": "botao 1",
+  "tipo": "expandir",
+  "x": 14,
+  "y": 44
+ },
+ {
+  "docker": "Live Guides",
+  "nome": "botao 2",
+  "tipo": "expandir",
+  "x": 42,
+  "y": 44
+ },
+ {
+  "docker": "Live Guides",
+  "nome": "recolher Alignment guides",
+  "tipo": "expandir",
+  "x": 12,
+  "y": 71
+ },
+ {
+  "docker": "Live Guides",
+  "nome": "Alignment ▸ lista estilo de linha",
+  "tipo": "lista",
+  "x": 203,
+  "y": 99
+ },
+ {
+  "docker": "Live Guides",
+  "nome": "Alignment ▸ lista cor",
+  "tipo": "lista",
+  "x": 260,
+  "y": 99
+ },
+ {
+  "docker": "Live Guides",
+  "nome": "recolher Dynamic guides",
+  "tipo": "expandir",
+  "x": 12,
+  "y": 323
+ },
+ {
+  "docker": "Live Guides",
+  "nome": "Dynamic ▸ lista estilo de linha",
+  "tipo": "lista",
+  "x": 203,
+  "y": 351
+ },
+ {
+  "docker": "Live Guides",
+  "nome": "Dynamic ▸ lista cor",
+  "tipo": "lista",
+  "x": 260,
+  "y": 351
+ },
+ {
+  "docker": "Guidelines",
+  "nome": "botao 1",
+  "tipo": "expandir",
+  "x": 16,
+  "y": 44
+ },
+ {
+  "docker": "Guidelines",
+  "nome": "botao 2",
+  "tipo": "expandir",
+  "x": 48,
+  "y": 44
+ },
+ {
+  "docker": "Guidelines",
+  "nome": "menu engrenagem",
+  "tipo": "menu",
+  "x": 273,
+  "y": 44
+ },
+ {
+  "docker": "Guidelines",
+  "nome": "lista estilo de linha",
+  "tipo": "lista",
+  "x": 220,
+  "y": 78
+ },
+ {
+  "docker": "Guidelines",
+  "nome": "lista cor",
+  "tipo": "lista",
+  "x": 276,
+  "y": 78
+ },
+ {
+  "docker": "Guidelines",
+  "nome": "lista Horizontal",
+  "tipo": "lista",
+  "x": 276,
+  "y": 119
+ },
+ {
+  "docker": "Align and Distribute",
+  "nome": "Align to ▸ opcao 2",
+  "tipo": "aba",
+  "x": 116,
+  "y": 126,
+  "voltar": {
+   "x": 83,
+   "y": 126
+  }
+ },
+ {
+  "docker": "Align and Distribute",
+  "nome": "Align to ▸ opcao 3",
+  "tipo": "aba",
+  "x": 147,
+  "y": 126,
+  "voltar": {
+   "x": 83,
+   "y": 126
+  }
+ },
+ {
+  "docker": "Align and Distribute",
+  "nome": "Align to ▸ opcao 4",
+  "tipo": "aba",
+  "x": 179,
+  "y": 126,
+  "voltar": {
+   "x": 83,
+   "y": 126
+  }
+ },
+ {
+  "docker": "Align and Distribute",
+  "nome": "Align to ▸ opcao 5",
+  "tipo": "aba",
+  "x": 211,
+  "y": 126,
+  "voltar": {
+   "x": 83,
+   "y": 126
+  }
+ },
+ {
+  "docker": "Align and Distribute",
+  "nome": "Distribute to ▸ opcao 2",
+  "tipo": "aba",
+  "x": 138,
+  "y": 346,
+  "voltar": {
+   "x": 107,
+   "y": 346
+  }
+ },
+ {
+  "docker": "Align and Distribute",
+  "nome": "Distribute to ▸ opcao 3",
+  "tipo": "aba",
+  "x": 170,
+  "y": 346,
+  "voltar": {
+   "x": 107,
+   "y": 346
+  }
+ },
+ {
+  "docker": "Fit Objects to Path",
+  "nome": "lista Order",
+  "tipo": "lista",
+  "x": 204,
+  "y": 269
+ },
+ {
+  "docker": "Fit Objects to Path",
+  "nome": "lista Distribution",
+  "tipo": "lista",
+  "x": 204,
+  "y": 301
+ },
+ {
+  "docker": "Fit Objects to Path",
+  "nome": "lista Reference",
+  "tipo": "lista",
+  "x": 204,
+  "y": 333
+ },
+ {
+  "docker": "Fit Objects to Path",
+  "nome": "lista Style",
+  "tipo": "lista",
+  "x": 204,
+  "y": 525
+ },
+ {
+  "docker": "Fit Objects to Path",
+  "nome": "info (i)",
+  "tipo": "menu",
+  "x": 278,
+  "y": 138
+ },
+ {
+  "docker": "Fit Objects to Path",
+  "nome": "rotacao Uniform",
+  "tipo": "aba",
+  "x": 240,
+  "y": 574,
+  "antes": [
+   {
+    "x": 204,
+    "y": 525,
+    "manter": true
+   }
+  ],
+  "voltar": [
+   {
+    "x": 204,
+    "y": 525
+   },
+   {
+    "x": 240,
+    "y": 549
+   }
+  ]
+ },
+ {
+  "docker": "Fit Objects to Path",
+  "nome": "rotacao Progressive",
+  "tipo": "aba",
+  "x": 240,
+  "y": 598,
+  "antes": [
+   {
+    "x": 204,
+    "y": 525,
+    "manter": true
+   }
+  ],
+  "voltar": [
+   {
+    "x": 204,
+    "y": 525
+   },
+   {
+    "x": 240,
+    "y": 549
+   }
+  ]
+ },
+ {
+  "docker": "Fit Objects to Path",
+  "nome": "rotacao Jitter",
+  "tipo": "aba",
+  "x": 240,
+  "y": 622,
+  "antes": [
+   {
+    "x": 204,
+    "y": 525,
+    "manter": true
+   }
+  ],
+  "voltar": [
+   {
+    "x": 204,
+    "y": 525
+   },
+   {
+    "x": 240,
+    "y": 549
+   }
+  ]
+ },
+ {
+  "docker": "Fit Objects to Path",
+  "nome": "rotacao Progressive jitter",
+  "tipo": "aba",
+  "x": 240,
+  "y": 647,
+  "antes": [
+   {
+    "x": 204,
+    "y": 525,
+    "manter": true
+   }
+  ],
+  "voltar": [
+   {
+    "x": 204,
+    "y": 525
+   },
+   {
+    "x": 240,
+    "y": 549
+   }
+  ]
+ },
+ {
+  "docker": "Step and Repeat",
+  "nome": "Horizontal ▸ lista modo",
+  "tipo": "lista",
+  "x": 142,
+  "y": 72
+ },
+ {
+  "docker": "Step and Repeat",
+  "nome": "Vertical ▸ lista modo",
+  "tipo": "lista",
+  "x": 142,
+  "y": 197
+ },
+ {
+  "docker": "Step and Repeat",
+  "nome": "Horizontal ▸ Spacing between objects ▸ lista Direction",
+  "tipo": "lista",
+  "x": 200,
+  "y": 136,
+  "antes": [
+   {
+    "x": 142,
+    "y": 72,
+    "manter": true
+   },
+   {
+    "x": 60,
+    "y": 147
+   }
+  ]
+ },
+ {
+  "docker": "Step and Repeat",
+  "nome": "Horizontal ▸ modo Spacing between objects",
+  "tipo": "aba",
+  "x": 60,
+  "y": 147,
+  "antes": [
+   {
+    "x": 142,
+    "y": 72,
+    "manter": true
+   }
+  ],
+  "voltar": [
+   {
+    "x": 142,
+    "y": 72
+   },
+   {
+    "x": 60,
+    "y": 122
+   }
+  ]
+ },
+ {
+  "docker": "Step and Repeat",
+  "nome": "Vertical ▸ Spacing between objects ▸ lista Direction",
+  "tipo": "lista",
+  "x": 200,
+  "y": 260,
+  "antes": [
+   {
+    "x": 142,
+    "y": 197,
+    "manter": true
+   },
+   {
+    "x": 60,
+    "y": 272
+   }
+  ]
+ },
+ {
+  "docker": "Step and Repeat",
+  "nome": "Vertical ▸ modo Spacing between objects",
+  "tipo": "aba",
+  "x": 60,
+  "y": 272,
+  "antes": [
+   {
+    "x": 142,
+    "y": 197,
+    "manter": true
+   }
+  ],
+  "voltar": [
+   {
+    "x": 142,
+    "y": 197
+   },
+   {
+    "x": 60,
+    "y": 247
+   }
+  ]
+ },
+ {
+  "docker": "Step and Repeat",
+  "nome": "recolher Horizontal Settings",
+  "tipo": "expandir",
+  "x": 12,
+  "y": 46
+ },
+ {
+  "docker": "Step and Repeat",
+  "nome": "recolher Vertical Settings",
+  "tipo": "expandir",
+  "x": 12,
+  "y": 171
+ },
+ {
+  "docker": "Shape",
+  "nome": "lista operacao (Weld)",
+  "tipo": "lista",
+  "x": 146,
+  "y": 46
+ },
+ {
+  "docker": "Shape",
+  "nome": "operacao Trim",
+  "tipo": "aba",
+  "x": 60,
+  "y": 95,
+  "antes": [
+   {
+    "x": 146,
+    "y": 46,
+    "manter": true
+   }
+  ],
+  "voltar": [
+   {
+    "x": 146,
+    "y": 46
+   },
+   {
+    "x": 60,
+    "y": 70
+   }
+  ]
+ },
+ {
+  "docker": "Shape",
+  "nome": "operacao Intersect",
+  "tipo": "aba",
+  "x": 60,
+  "y": 120,
+  "antes": [
+   {
+    "x": 146,
+    "y": 46,
+    "manter": true
+   }
+  ],
+  "voltar": [
+   {
+    "x": 146,
+    "y": 46
+   },
+   {
+    "x": 60,
+    "y": 70
+   }
+  ]
+ },
+ {
+  "docker": "Shape",
+  "nome": "operacao Simplify",
+  "tipo": "aba",
+  "x": 60,
+  "y": 145,
+  "antes": [
+   {
+    "x": 146,
+    "y": 46,
+    "manter": true
+   }
+  ],
+  "voltar": [
+   {
+    "x": 146,
+    "y": 46
+   },
+   {
+    "x": 60,
+    "y": 70
+   }
+  ]
+ },
+ {
+  "docker": "Shape",
+  "nome": "operacao Front minus back",
+  "tipo": "aba",
+  "x": 60,
+  "y": 170,
+  "antes": [
+   {
+    "x": 146,
+    "y": 46,
+    "manter": true
+   }
+  ],
+  "voltar": [
+   {
+    "x": 146,
+    "y": 46
+   },
+   {
+    "x": 60,
+    "y": 70
+   }
+  ]
+ },
+ {
+  "docker": "Shape",
+  "nome": "operacao Back minus front",
+  "tipo": "aba",
+  "x": 60,
+  "y": 195,
+  "antes": [
+   {
+    "x": 146,
+    "y": 46,
+    "manter": true
+   }
+  ],
+  "voltar": [
+   {
+    "x": 146,
+    "y": 46
+   },
+   {
+    "x": 60,
+    "y": 70
+   }
+  ]
+ },
+ {
+  "docker": "Shape",
+  "nome": "operacao Boundary",
+  "tipo": "aba",
+  "x": 60,
+  "y": 220,
+  "antes": [
+   {
+    "x": 146,
+    "y": 46,
+    "manter": true
+   }
+  ],
+  "voltar": [
+   {
+    "x": 146,
+    "y": 46
+   },
+   {
+    "x": 60,
+    "y": 70
+   }
+  ]
+ },
+ {
+  "docker": "Corners",
+  "nome": "opcao Scallop",
+  "tipo": "aba",
+  "x": 9,
+  "y": 79,
+  "voltar": {
+   "x": 9,
+   "y": 46
+  }
+ },
+ {
+  "docker": "Corners",
+  "nome": "opcao Chamfer",
+  "tipo": "aba",
+  "x": 9,
+  "y": 112,
+  "voltar": {
+   "x": 9,
+   "y": 46
+  }
+ },
+ {
+  "docker": "Join Curves",
+  "nome": "opcao Chamfer",
+  "tipo": "aba",
+  "x": 10,
+  "y": 65,
+  "voltar": {
+   "x": 10,
+   "y": 42
+  }
+ },
+ {
+  "docker": "Join Curves",
+  "nome": "opcao Fillet",
+  "tipo": "aba",
+  "x": 10,
+  "y": 88,
+  "voltar": {
+   "x": 10,
+   "y": 42
+  }
+ },
+ {
+  "docker": "Join Curves",
+  "nome": "opcao Bezier Curve",
+  "tipo": "aba",
+  "x": 10,
+  "y": 111,
+  "voltar": {
+   "x": 10,
+   "y": 42
+  }
+ },
+ {
+  "docker": "Text",
+  "nome": "aba Paragraph",
+  "tipo": "aba",
+  "x": 46,
+  "y": 44,
+  "voltar": {
+   "x": 14,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Text",
+  "nome": "aba Frame",
+  "tipo": "aba",
+  "x": 78,
+  "y": 44,
+  "voltar": {
+   "x": 14,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Text",
+  "nome": "botao de exibicao 1",
+  "tipo": "expandir",
+  "x": 243,
+  "y": 44
+ },
+ {
+  "docker": "Text",
+  "nome": "botao de exibicao 2",
+  "tipo": "expandir",
+  "x": 275,
+  "y": 44
+ },
+ {
+  "docker": "Text",
+  "nome": "lista fonte",
+  "tipo": "lista",
+  "x": 150,
+  "y": 103
+ },
+ {
+  "docker": "Text",
+  "nome": "lista estilo da fonte",
+  "tipo": "lista",
+  "x": 150,
+  "y": 135
+ },
+ {
+  "docker": "Text",
+  "nome": "lista tamanho",
+  "tipo": "lista",
+  "x": 248,
+  "y": 103
+ },
+ {
+  "docker": "Text",
+  "nome": "lista maiusculas (AA)",
+  "tipo": "lista",
+  "x": 238,
+  "y": 135
+ },
+ {
+  "docker": "Text",
+  "nome": "lista sublinhado",
+  "tipo": "lista",
+  "x": 268,
+  "y": 178
+ },
+ {
+  "docker": "Text",
+  "nome": "lista tipo de preenchimento do texto",
+  "tipo": "lista",
+  "x": 150,
+  "y": 210
+ },
+ {
+  "docker": "Text",
+  "nome": "lista cor de preenchimento do texto",
+  "tipo": "lista",
+  "x": 211,
+  "y": 210
+ },
+ {
+  "docker": "Text",
+  "nome": "configuracoes de preenchimento do texto (...)",
+  "tipo": "menu",
+  "x": 239,
+  "y": 210
+ },
+ {
+  "docker": "Text",
+  "nome": "lista tipo de fundo",
+  "tipo": "lista",
+  "x": 150,
+  "y": 242
+ },
+ {
+  "docker": "Text",
+  "nome": "lista cor de fundo",
+  "tipo": "lista",
+  "x": 211,
+  "y": 242
+ },
+ {
+  "docker": "Text",
+  "nome": "configuracoes de fundo (...)",
+  "tipo": "menu",
+  "x": 239,
+  "y": 242
+ },
+ {
+  "docker": "Text",
+  "nome": "lista tipo de contorno",
+  "tipo": "lista",
+  "x": 150,
+  "y": 274
+ },
+ {
+  "docker": "Text",
+  "nome": "lista cor de contorno",
+  "tipo": "lista",
+  "x": 211,
+  "y": 274
+ },
+ {
+  "docker": "Text",
+  "nome": "configuracoes de contorno (...)",
+  "tipo": "menu",
+  "x": 239,
+  "y": 274
+ },
+ {
+  "docker": "Text",
+  "nome": "mais opcoes de caractere (v)",
+  "tipo": "expandir",
+  "x": 136,
+  "y": 315
+ },
+ {
+  "docker": "Text",
+  "nome": "Paragraph ▸ menu engrenagem",
+  "tipo": "menu",
+  "x": 240,
+  "y": 346
+ },
+ {
+  "docker": "Text",
+  "nome": "Paragraph ▸ lista unidade do espacamento",
+  "tipo": "lista",
+  "x": 222,
+  "y": 419
+ },
+ {
+  "docker": "Font Sampler",
+  "nome": "lista fonte",
+  "tipo": "lista",
+  "x": 146,
+  "y": 46
+ },
+ {
+  "docker": "Font Sampler",
+  "nome": "visualizacao 2",
+  "tipo": "aba",
+  "x": 48,
+  "y": 86,
+  "voltar": {
+   "x": 16,
+   "y": 86
+  }
+ },
+ {
+  "docker": "Font Sampler",
+  "nome": "visualizacao 3",
+  "tipo": "aba",
+  "x": 78,
+  "y": 86,
+  "voltar": {
+   "x": 16,
+   "y": 86
+  }
+ },
+ {
+  "docker": "Glyphs",
+  "nome": "lista fonte",
+  "tipo": "lista",
+  "x": 145,
+  "y": 159
+ },
+ {
+  "docker": "Glyphs",
+  "nome": "lista Entire Font",
+  "tipo": "lista",
+  "x": 145,
+  "y": 191
+ },
+ {
+  "docker": "Effects > Artistic Media",
+  "nome": "lista Stroke type",
+  "tipo": "lista",
+  "x": 124,
+  "y": 254
+ },
+ {
+  "docker": "Effects > Artistic Media",
+  "nome": "menu engrenagem",
+  "tipo": "menu",
+  "x": 274,
+  "y": 254
+ },
+ {
+  "docker": "Effects > Bevel",
+  "nome": "opcao Emboss",
+  "tipo": "aba",
+  "x": 11,
+  "y": 88,
+  "voltar": {
+   "x": 11,
+   "y": 65
+  }
+ },
+ {
+  "docker": "Effects > Bevel",
+  "nome": "opcao To center",
+  "tipo": "aba",
+  "x": 11,
+  "y": 145,
+  "voltar": {
+   "x": 11,
+   "y": 172
+  }
+ },
+ {
+  "docker": "Effects > Bevel",
+  "nome": "lista Shadow color",
+  "tipo": "lista",
+  "x": 150,
+  "y": 215
+ },
+ {
+  "docker": "Effects > Bevel",
+  "nome": "lista Light color",
+  "tipo": "lista",
+  "x": 150,
+  "y": 302
+ },
+ {
+  "docker": "Effects > Bitmap Mask",
+  "nome": "abrir mascara (pasta)",
+  "tipo": "menu",
+  "x": 46,
+  "y": 267
+ },
+ {
+  "docker": "Effects > Blend",
+  "nome": "modo espacamento",
+  "tipo": "aba",
+  "x": 117,
+  "y": 44,
+  "voltar": {
+   "x": 85,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Effects > Blend",
+  "nome": "lista passos",
+  "tipo": "lista",
+  "x": 197,
+  "y": 83
+ },
+ {
+  "docker": "Effects > Blend",
+  "nome": "Color Blend ▸ opcao 2",
+  "tipo": "aba",
+  "x": 117,
+  "y": 437,
+  "voltar": {
+   "x": 85,
+   "y": 437
+  }
+ },
+ {
+  "docker": "Effects > Blend",
+  "nome": "Color Blend ▸ opcao 3",
+  "tipo": "aba",
+  "x": 149,
+  "y": 437,
+  "voltar": {
+   "x": 85,
+   "y": 437
+  }
+ },
+ {
+  "docker": "Effects > Blend",
+  "nome": "mais opcoes (v)",
+  "tipo": "expandir",
+  "x": 145,
+  "y": 507
+ },
+ {
+  "docker": "Effects > Contour",
+  "nome": "alinhamento ▸ opcao 1",
+  "tipo": "aba",
+  "x": 14,
+  "y": 68,
+  "voltar": {
+   "x": 46,
+   "y": 68
+  }
+ },
+ {
+  "docker": "Effects > Contour",
+  "nome": "alinhamento ▸ opcao 3",
+  "tipo": "aba",
+  "x": 78,
+  "y": 68,
+  "voltar": {
+   "x": 46,
+   "y": 68
+  }
+ },
+ {
+  "docker": "Effects > Contour",
+  "nome": "Corner ▸ opcao 2",
+  "tipo": "aba",
+  "x": 46,
+  "y": 210,
+  "voltar": {
+   "x": 14,
+   "y": 210
+  }
+ },
+ {
+  "docker": "Effects > Contour",
+  "nome": "Color blend ▸ opcao 2",
+  "tipo": "aba",
+  "x": 46,
+  "y": 307,
+  "voltar": {
+   "x": 14,
+   "y": 307
+  }
+ },
+ {
+  "docker": "Effects > Contour",
+  "nome": "Corner ▸ opcao 3",
+  "tipo": "aba",
+  "x": 78,
+  "y": 210,
+  "voltar": {
+   "x": 14,
+   "y": 210
+  }
+ },
+ {
+  "docker": "Effects > Contour",
+  "nome": "Color blend ▸ opcao 3",
+  "tipo": "aba",
+  "x": 78,
+  "y": 307,
+  "voltar": {
+   "x": 14,
+   "y": 307
+  }
+ },
+ {
+  "docker": "Effects > Contour",
+  "nome": "lista cor do contorno",
+  "tipo": "lista",
+  "x": 207,
+  "y": 350
+ },
+ {
+  "docker": "Effects > Contour",
+  "nome": "lista cor do preenchimento",
+  "tipo": "lista",
+  "x": 207,
+  "y": 382
+ },
+ {
+  "docker": "Effects > Envelope",
+  "nome": "modo 2",
+  "tipo": "aba",
+  "x": 44,
+  "y": 330,
+  "voltar": {
+   "x": 14,
+   "y": 330
+  }
+ },
+ {
+  "docker": "Effects > Envelope",
+  "nome": "modo 3",
+  "tipo": "aba",
+  "x": 78,
+  "y": 330,
+  "voltar": {
+   "x": 14,
+   "y": 330
+  }
+ },
+ {
+  "docker": "Effects > Envelope",
+  "nome": "modo 4",
+  "tipo": "aba",
+  "x": 110,
+  "y": 330,
+  "voltar": {
+   "x": 14,
+   "y": 330
+  }
+ },
+ {
+  "docker": "Effects > Envelope",
+  "nome": "lista mapeamento (Putty)",
+  "tipo": "lista",
+  "x": 248,
+  "y": 330
+ },
+ {
+  "docker": "Effects > Extrude",
+  "nome": "aba 2",
+  "tipo": "aba",
+  "x": 48,
+  "y": 44,
+  "voltar": {
+   "x": 16,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Effects > Extrude",
+  "nome": "aba 3",
+  "tipo": "aba",
+  "x": 80,
+  "y": 44,
+  "voltar": {
+   "x": 16,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Effects > Extrude",
+  "nome": "aba 4",
+  "tipo": "aba",
+  "x": 112,
+  "y": 44,
+  "voltar": {
+   "x": 16,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Effects > Extrude",
+  "nome": "aba 5",
+  "tipo": "aba",
+  "x": 144,
+  "y": 44,
+  "voltar": {
+   "x": 16,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Effects > Lens",
+  "nome": "lista tipo de lente",
+  "tipo": "lista",
+  "x": 145,
+  "y": 46
+ },
+ {
+  "docker": "Effects > Lens",
+  "nome": "lente Brighten",
+  "tipo": "aba",
+  "x": 60,
+  "y": 97,
+  "antes": [
+   {
+    "x": 145,
+    "y": 46,
+    "manter": true
+   }
+  ]
+ },
+ {
+  "docker": "Effects > Lens",
+  "nome": "lente Color Add",
+  "tipo": "aba",
+  "x": 60,
+  "y": 122,
+  "antes": [
+   {
+    "x": 145,
+    "y": 46,
+    "manter": true
+   }
+  ]
+ },
+ {
+  "docker": "Effects > Lens",
+  "nome": "lente Color Limit",
+  "tipo": "aba",
+  "x": 60,
+  "y": 147,
+  "antes": [
+   {
+    "x": 145,
+    "y": 46,
+    "manter": true
+   }
+  ]
+ },
+ {
+  "docker": "Effects > Lens",
+  "nome": "lente Custom Color Map",
+  "tipo": "aba",
+  "x": 60,
+  "y": 172,
+  "antes": [
+   {
+    "x": 145,
+    "y": 46,
+    "manter": true
+   }
+  ]
+ },
+ {
+  "docker": "Effects > Lens",
+  "nome": "lente Fish Eye",
+  "tipo": "aba",
+  "x": 60,
+  "y": 197,
+  "antes": [
+   {
+    "x": 145,
+    "y": 46,
+    "manter": true
+   }
+  ]
+ },
+ {
+  "docker": "Effects > Lens",
+  "nome": "lente Heat Map",
+  "tipo": "aba",
+  "x": 60,
+  "y": 222,
+  "antes": [
+   {
+    "x": 145,
+    "y": 46,
+    "manter": true
+   }
+  ]
+ },
+ {
+  "docker": "Effects > Lens",
+  "nome": "lente Invert",
+  "tipo": "aba",
+  "x": 60,
+  "y": 247,
+  "antes": [
+   {
+    "x": 145,
+    "y": 46,
+    "manter": true
+   }
+  ]
+ },
+ {
+  "docker": "Effects > Lens",
+  "nome": "lente Magnify",
+  "tipo": "aba",
+  "x": 60,
+  "y": 272,
+  "antes": [
+   {
+    "x": 145,
+    "y": 46,
+    "manter": true
+   }
+  ]
+ },
+ {
+  "docker": "Effects > Lens",
+  "nome": "lente Tinted Grayscale",
+  "tipo": "aba",
+  "x": 60,
+  "y": 297,
+  "antes": [
+   {
+    "x": 145,
+    "y": 46,
+    "manter": true
+   }
+  ]
+ },
+ {
+  "docker": "Effects > Lens",
+  "nome": "lente Transparency",
+  "tipo": "aba",
+  "x": 60,
+  "y": 322,
+  "antes": [
+   {
+    "x": 145,
+    "y": 46,
+    "manter": true
+   }
+  ]
+ },
+ {
+  "docker": "Effects > Lens",
+  "nome": "lente Wireframe",
+  "tipo": "aba",
+  "x": 60,
+  "y": 347,
+  "antes": [
+   {
+    "x": 145,
+    "y": 46,
+    "manter": true
+   }
+  ]
+ },
+ {
+  "docker": "Effects > Lens",
+  "nome": "lente Bitmap Effect",
+  "tipo": "aba",
+  "x": 60,
+  "y": 372,
+  "antes": [
+   {
+    "x": 145,
+    "y": 46,
+    "manter": true
+   }
+  ]
+ },
+ {
+  "docker": "Effects > Pointillizer",
+  "nome": "lista Method",
+  "tipo": "lista",
+  "x": 198,
+  "y": 291
+ },
+ {
+  "docker": "Effects > Pointillizer",
+  "nome": "lista Shape",
+  "tipo": "lista",
+  "x": 150,
+  "y": 400
+ },
+ {
+  "docker": "Color",
+  "nome": "aba Sliders",
+  "tipo": "aba",
+  "x": 48,
+  "y": 44,
+  "voltar": {
+   "x": 16,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Color",
+  "nome": "aba Palettes",
+  "tipo": "aba",
+  "x": 80,
+  "y": 44,
+  "voltar": {
+   "x": 16,
+   "y": 44
+  }
+ },
+ {
+  "docker": "Color",
+  "nome": "lista modelo de cor",
+  "tipo": "lista",
+  "x": 126,
+  "y": 78
+ },
+ {
+  "docker": "Color",
+  "nome": "menu engrenagem",
+  "tipo": "menu",
+  "x": 273,
+  "y": 78
+ },
+ {
+  "docker": "Color",
+  "nome": "menu (...)",
+  "tipo": "menu",
+  "x": 274,
+  "y": 316
+ },
+ {
+  "docker": "Palettes",
+  "nome": "menu engrenagem",
+  "tipo": "menu",
+  "x": 275,
+  "y": 46
+ },
+ {
+  "docker": "Palettes",
+  "nome": "recolher Palette Libraries",
+  "tipo": "expandir",
+  "x": 18,
+  "y": 150
+ },
+ {
+  "docker": "Palettes",
+  "nome": "expandir Process",
+  "tipo": "expandir",
+  "x": 36,
+  "y": 174
+ },
+ {
+  "docker": "Palettes",
+  "nome": "expandir Spot",
+  "tipo": "expandir",
+  "x": 36,
+  "y": 198
+ },
+ {
+  "docker": "Color Styles",
+  "nome": "botao exibicao (olho)",
+  "tipo": "expandir",
+  "x": 244,
+  "y": 46
+ },
+ {
+  "docker": "Color Styles",
+  "nome": "menu canto superior",
+  "tipo": "menu",
+  "x": 276,
+  "y": 46
+ },
+ {
+  "docker": "Color Styles",
+  "nome": "menu novo estilo de cor",
+  "tipo": "menu",
+  "x": 16,
+  "y": 250
+ },
+ {
+  "docker": "Color Styles",
+  "nome": "menu nova harmonia",
+  "tipo": "menu",
+  "x": 48,
+  "y": 250
+ },
+ {
+  "docker": "Color Styles",
+  "nome": "lista Custom",
+  "tipo": "lista",
+  "x": 144,
+  "y": 282
+ },
+ {
+  "docker": "Color Proofing",
+  "nome": "lista cor do aviso de gama",
+  "tipo": "lista",
+  "x": 32,
+  "y": 115
+ },
+ {
+  "docker": "Color Proofing",
+  "nome": "lista Proof preset",
+  "tipo": "lista",
+  "x": 60,
+  "y": 170
+ },
+ {
+  "docker": "Color Proofing",
+  "nome": "lista Simulate environment",
+  "tipo": "lista",
+  "x": 150,
+  "y": 226
+ },
+ {
+  "docker": "Color Proofing",
+  "nome": "lista Rendering intent",
+  "tipo": "lista",
+  "x": 150,
+  "y": 302
+ },
+ {
+  "docker": "Assets",
+  "nome": "fonte 2 (nuvem)",
+  "tipo": "aba",
+  "x": 44,
+  "y": 74,
+  "voltar": {
+   "x": 12,
+   "y": 74
+  }
+ },
+ {
+  "docker": "Assets",
+  "nome": "fonte 3 (links)",
+  "tipo": "aba",
+  "x": 76,
+  "y": 74,
+  "voltar": {
+   "x": 12,
+   "y": 74
+  }
+ },
+ {
+  "docker": "Assets",
+  "nome": "menu engrenagem",
+  "tipo": "menu",
+  "x": 273,
+  "y": 44
+ },
+ {
+  "docker": "Assets",
+  "nome": "lista ordenar (Name)",
+  "tipo": "lista",
+  "x": 277,
+  "y": 103
+ },
+ {
+  "docker": "Assets",
+  "nome": "lista categorias",
+  "tipo": "lista",
+  "x": 179,
+  "y": 132
+ },
+ {
+  "docker": "Assets",
+  "nome": "visualizacao 2",
+  "tipo": "aba",
+  "x": 241,
+  "y": 132,
+  "voltar": {
+   "x": 209,
+   "y": 132
+  }
+ },
+ {
+  "docker": "Tray",
+  "nome": "lista bandeja",
+  "tipo": "lista",
+  "x": 243,
+  "y": 45
+ },
+ {
+  "docker": "Tray",
+  "nome": "menu engrenagem",
+  "tipo": "menu",
+  "x": 273,
+  "y": 45
+ },
+ {
+  "docker": "Links and Rollovers",
+  "nome": "lista Behavior",
+  "tipo": "lista",
+  "x": 275,
+  "y": 69
+ },
+ {
+  "docker": "Links and Rollovers",
+  "nome": "lista URL",
+  "tipo": "lista",
+  "x": 275,
+  "y": 124
+ },
+ {
+  "docker": "Links and Rollovers",
+  "nome": "lista cor Cross-hatch",
+  "tipo": "lista",
+  "x": 129,
+  "y": 330
+ },
+ {
+  "docker": "Links and Rollovers",
+  "nome": "lista cor Background",
+  "tipo": "lista",
+  "x": 129,
+  "y": 362
+ },
+ {
+  "docker": "Links and Rollovers",
+  "nome": "lista estado do rollover",
+  "tipo": "lista",
+  "x": 193,
+  "y": 521
+ },
+ {
+  "docker": "Views",
+  "nome": "menu engrenagem",
+  "tipo": "menu",
+  "x": 273,
+  "y": 44
+ },
+ {
+  "docker": "Scripts",
+  "nome": "expandir VSTAGlobal",
+  "tipo": "expandir",
+  "x": 33,
+  "y": 98
+ },
+ {
+  "docker": "Scripts",
+  "nome": "expandir GlobalMacros",
+  "tipo": "expandir",
+  "x": 33,
+  "y": 146
+ },
+ {
+  "docker": "Scripts",
+  "nome": "expandir VBAProject (Untitled-1)",
+  "tipo": "expandir",
+  "x": 33,
+  "y": 266
+ },
+ {
+  "docker": "Learn",
+  "nome": "aba 2",
+  "tipo": "aba",
+  "x": 46,
+  "y": 44,
+  "voltar": {
+   "x": 14,
+   "y": 44
+  }
+ }
+]

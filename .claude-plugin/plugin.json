@@ -1,0 +1,13 @@
+{
+  "name": "win-screen-mapper",
+  "version": "1.0.0",
+  "description": "Maps an entire Windows desktop application into an organized screenshot atlas (menus, submenus, dialogs and their tabs, panels, toolbars, right-click menus) with a coverage report and an offline HTML index.",
+  "author": {
+    "name": "toim22",
+    "url": "https://github.com/toim22"
+  },
+  "homepage": "https://github.com/toim22/win-screen-mapper",
+  "repository": "https://github.com/toim22/win-screen-mapper",
+  "license": "MIT",
+  "keywords": ["windows", "screenshots", "ui-automation", "documentation", "training", "desktop"]
+}
